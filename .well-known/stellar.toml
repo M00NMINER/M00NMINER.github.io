@@ -8,8 +8,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Moonminor"
-ORG_URL="https://Moonminor.github.io/"
-ORG_LOGO ="https://Moonminor.github.io/img/crown.png"
+ORG_URL="https://m00nminer.github.io/"
+ORG_LOGO ="https://m00nminer.github.io/img/crown.png"
 ORG_OFFICIAL_EMAIL="Moonminor@proton.me"
 ORG_SUPPORT_EMAIL="Moonminor@proton.me"
 ORG_DESCRIPTION=": POWER BUY Moonminor"
@@ -18,17 +18,17 @@ ORG_DESCRIPTION=": POWER BUY Moonminor"
 email="support@Moonminor.com"
 
 [[CURRENCIES]]
-code ="1BOSS"
-name ="1BOSS"
+code ="MINER"
+name ="MINER"
 issuer = "GBIOYVYIG46SACKY2Z3Q4C7WDG4C3WU3B3LIUCC6DWPBSHYIXNFA3OIZ"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of ."
-image="https://Moonminor.github.io/img/crown.png"
-conditions="There will only ever be 1 billion  tokens in existence."
+desc="Miner pay In aap Payment "
+image="https://m00nminer.github.io/img/MINER.png"
+conditions="No condition"
 status="live"
-anchor_asset_type="other"
-fixed_number=1000000000
+anchor_asset_type="Payment"
+fixed_number=Nolimit
 
 
 [[CURRENCIES]]
