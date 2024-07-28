@@ -28,7 +28,7 @@ image="https://m00nminer.github.io/img/MINER.png"
 conditions="No condition"
 status="live"
 anchor_asset_type="Payment"
-fixed_number=Nolimit
+fixed_number=10000000
 
 
 [[CURRENCIES]]
@@ -38,46 +38,46 @@ issuer = "GBIOYVYIG46SACKY2Z3Q4C7WDG4C3WU3B3LIUCC6DWPBSHYIXNFA3OIZ"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://Moonminor.github.io/img/SGB.png"
+image="https://m00nminer.github.io/img/SGB.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="BTC"
-name ="THIS IS KING"
+code ="GOLD"
+name ="GOLD"
 issuer = "GBIOYVYIG46SACKY2Z3Q4C7WDG4C3WU3B3LIUCC6DWPBSHYIXNFA3OIZ"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://Moonminor.github.io/img/BTC.png"
+image="https://m00nminer.github.io/img/GOLD.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="Kay"
-name ="MAKER KAY"
+code ="DP"
+name ="drifting picks"
 issuer = "GBIOYVYIG46SACKY2Z3Q4C7WDG4C3WU3B3LIUCC6DWPBSHYIXNFA3OIZ"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://Moonminor.github.io/img/Kay.png"
+image="https://m00nminer.github.io/img/drilling.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="CHATGPT"
-name="ChatGPT"
+code="TONE"
+name="tone "
 issuer = "GBIOYVYIG46SACKY2Z3Q4C7WDG4C3WU3B3LIUCC6DWPBSHYIXNFA3OIZ"
 is_asset_anchored=false
 anchor_asset_type="other"
-anchor_asset="ChatGPT"
-image="https://Moonminor.github.io/img/chat.png"
+anchor_asset="tone from mine"
+image="https://Moonminor.github.io/img/TONE.png"
 status="live"
 
 [[CURRENCIES]]
